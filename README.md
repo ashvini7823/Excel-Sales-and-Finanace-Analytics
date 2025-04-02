@@ -36,7 +36,7 @@ Below is the **data model** used for this analysis:
 ### 📊 Sample Sales Report Preview
 ![Sample Sales Report](https://github.com/user-attachments/assets/acf0747c-2302-496e-8448-faf3d242c7cd)
 
-🔗 **Sales Report:** [View the detailed report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+🔗 **Sales Report:** [View the detailed report](https://github.com/ashvini7823/Excel-Sales-and-Finanace-Analytics/blob/788d5f0ef1e1aa1543afb33651d7fa36000102ba/Atliq%20Sales%20Report.pdf)
 
 ---
 
@@ -55,7 +55,7 @@ Below is the **data model** used for this analysis:
 ![Sample Finance Report](https://github.com/user-attachments/assets/2eb8b049-bc47-457d-a6b4-0306da7c3138)
 
 
-🔗 **Finance Report:** [View the detailed report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+🔗 **Finance Report:** [View the detailed report](https://github.com/ashvini7823/Excel-Sales-and-Finanace-Analytics/blob/788d5f0ef1e1aa1543afb33651d7fa36000102ba/Atliq%20Finanace%20Report.pdf)
 
 ---
 
